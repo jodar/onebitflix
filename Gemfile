@@ -41,8 +41,10 @@ gem 'pg_search'
 # Code style
 gem 'rubocop'
 
-# Neeessária para instalação e configuração do Vue
+# Necessária para instalação e configuração do Vue
 gem 'webpacker'
+# Habilita possibilidade de subir servidor frontend ao mesmo tempo que o puma estiver rodando
+gem 'foreman'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
