@@ -38,6 +38,8 @@ gem 'devise'
 gem 'fast_jsonapi', git: "https://github.com/Netflix/fast_jsonapi", branch: "dev"
 # Pesquisas dentro do Postgresql
 gem 'pg_search'
+# Code style
+gem 'rubocop'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
