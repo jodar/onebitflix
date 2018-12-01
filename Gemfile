@@ -41,6 +41,9 @@ gem 'pg_search'
 # Code style
 gem 'rubocop'
 
+# Neeessária para instalação e configuração do Vue
+gem 'webpacker'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
