@@ -1,12 +1,9 @@
-import Vue from "vue"
-import App from "../app.vue"
+import Vue from 'vue'
+import App from './app.vue'
 
-document.addEventListener("DOMContentLoaded", () => {
-  const el = document.body.appendChild(document.createElement("hello"))
+document.addEventListener('DOMContentLoaded', () => {
   const app = new Vue({
-    el,
+    el: '#app',
     render: h => h(App)
   })
-
-  console.log(app)
 })
