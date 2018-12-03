@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Running local
+
+```
+foreman start
+```
+- Visit localhost:5000
