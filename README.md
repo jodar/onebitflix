@@ -6,8 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+2.4.0
 
 * System dependencies
+- node 10.8.0
+- yarn
 
 * Configuration
 
@@ -26,6 +29,10 @@ Things you may want to cover:
 ## Running local
 
 ```
+yarn install
+```
+
+```
 foreman start
 ```
-- Visit localhost:5000
+Visit localhost:5000
