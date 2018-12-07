@@ -9,8 +9,11 @@ Things you may want to cover:
 2.4.0
 
 * System dependencies
-- node 10.8.0
-- yarn
+
+[node 10.8.0](https://nodejs.org/en/)
+
+[yarn](https://yarnpkg.com/pt-BR/)
+
 
 * Configuration
 

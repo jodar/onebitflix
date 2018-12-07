@@ -7,9 +7,9 @@
         </a>
       </v-flex>
       <v-flex xs12 pb-2 text-xs-center white--text>
-        <p>3º Semana Super Full Stack -- 
-          <a href="https://onebitcode.com" class="white--text" target="_blank">
-            <strong>OneBitCode.com</strong>
+        <p>Powered by
+          <a href="https://jodalveswebsites.github.io" target="_blank">
+            <strong>jod@lves</strong>
           </a>
         </p>
       </v-flex>
